@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "AlistairGrant 1/1/2018 21:05",
+	"super" : "Object",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"serialPort",
+		"readProcess",
+		"interval",
+		"heading",
+		"latestReading",
+		"announcer",
+		"serialPortName",
+		"buffer"
+	],
+	"name" : "NamikiSixDigitMeter",
+	"type" : "normal"
+}

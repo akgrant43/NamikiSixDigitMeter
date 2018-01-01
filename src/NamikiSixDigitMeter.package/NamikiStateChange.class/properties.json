@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlistairGrant 1/1/2018 21:02",
+	"super" : "Announcement",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"meter",
+		"newState"
+	],
+	"name" : "NamikiStateChange",
+	"type" : "normal"
+}

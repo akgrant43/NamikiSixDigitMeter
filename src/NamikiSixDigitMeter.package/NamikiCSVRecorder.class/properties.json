@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlistairGrant 1/1/2018 20:53",
+	"super" : "Object",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileName",
+		"meter"
+	],
+	"name" : "NamikiCSVRecorder",
+	"type" : "normal"
+}

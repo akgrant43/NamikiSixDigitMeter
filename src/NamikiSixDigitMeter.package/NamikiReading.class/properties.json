@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AlistairGrant 1/1/2018 21:00",
+	"super" : "Announcement",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"meter",
+		"reading",
+		"timestamp"
+	],
+	"name" : "NamikiReading",
+	"type" : "normal"
+}
