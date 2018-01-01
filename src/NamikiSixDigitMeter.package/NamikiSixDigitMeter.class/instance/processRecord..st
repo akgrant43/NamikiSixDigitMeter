@@ -5,7 +5,7 @@ processRecord: nextLine
 	(nextLine beginsWith: 'The value is set') ifTrue: [ ^self ].
 
 	(nextLine beginsWith: 'Syntax error') ifTrue: 
-		[ self error: 'Syntax Error' ].
+		[ ^self processSyntaxError ].
 
 	(nextLine beginsWith: 'Time[') ifTrue: 
 		[ ^self setHeadingFrom: nextLine ].

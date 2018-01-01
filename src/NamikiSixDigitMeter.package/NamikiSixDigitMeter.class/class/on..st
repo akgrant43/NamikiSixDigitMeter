@@ -1,4 +1,4 @@
-instance creation
+as yet unclassified
 on: aSerialPort
 	"Start receiving on the supplied serial port"
 

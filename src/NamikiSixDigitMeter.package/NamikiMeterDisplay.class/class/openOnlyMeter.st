@@ -1,5 +1,6 @@
 instance creation
 openOnlyMeter
+	<script>
 
 	| display meter |
 

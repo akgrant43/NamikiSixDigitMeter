@@ -1,4 +1,4 @@
-instance creation
+as yet unclassified
 openOnlyMeter
 	"Search /dev for ttyUSB* and assume that that is the meter."
 

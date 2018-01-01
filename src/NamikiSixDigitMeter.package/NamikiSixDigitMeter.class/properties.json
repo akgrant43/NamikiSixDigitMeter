@@ -15,7 +15,8 @@
 		"latestReading",
 		"announcer",
 		"serialPortName",
-		"buffer"
+		"buffer",
+		"lastCommandTimestamp"
 	],
 	"name" : "NamikiSixDigitMeter",
 	"type" : "normal"

@@ -9,4 +9,4 @@ startReader
 		[ true ] whileTrue: [ 
 			buf := serialPort readString.
 			buf ifNotEmpty: [ self processReadString: buf ].
-			(Delay forSeconds: 1) wait. ] ] forkNamed: 'Namiki Read Process'.
+			(Delay forMilliseconds: 100) wait. ] ] forkNamed: 'Namiki Read Process'.
