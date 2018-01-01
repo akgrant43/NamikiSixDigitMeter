@@ -1,5 +1,7 @@
 # NamikiSixDigitMeter
-Pharo display and recording for the Namiki Six Digit Meter (Barometer, Thermometer, Hygrometer, Altimeter,Vertical Speed)
+Pharo display and recording for the Namiki Six Digit Meter (Barometer, Thermometer, Hygrometer, Altimeter,Vertical Speed).
+
+See https://www.ebay.com/itm/302325315079 for a description and picture of the meter.
 
 The Namiki Six Digit Meter uses a simple Serial over USB interface to control and read the meter.
 
