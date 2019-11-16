@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AlistairGrant 11/16/2019 14:46",
+	"super" : "Object",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileName",
+		"fieldNames",
+		"records"
+	],
+	"name" : "NamikiCSVFile",
+	"type" : "normal"
+}

@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NamikiSixDigitMeter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timestamp",
+		"time",
+		"pressureHPa",
+		"pressureInHg",
+		"temperatureC",
+		"temperatureF",
+		"humidity",
+		"altitudeM",
+		"altitudeFt",
+		"seaLevelPressureHPa",
+		"seaLevelpressureInHg",
+		"verticalSpeedMs",
+		"verticalSpeedFtM"
+	],
+	"name" : "NamikiRecord",
+	"type" : "normal"
+}
