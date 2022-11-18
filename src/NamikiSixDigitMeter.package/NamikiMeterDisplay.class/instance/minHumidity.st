@@ -1,3 +1,0 @@
-accessing
-minHumidity
-	^ minHumidity
